@@ -1,0 +1,15 @@
+{
+  "name": "edu_demo",
+  "version": "0.0.1",
+  "description": "A educationWeb Demo",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.8.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "zhuqiming",
+  "license": "ISC"
+}
