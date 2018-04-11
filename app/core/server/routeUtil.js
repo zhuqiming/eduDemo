@@ -54,7 +54,7 @@ var loadRoute = {
         this.app = app;
         this.path = path?path:this.path;
         this.listDir(this.path);
-        console.log(routes);
+        // console.log(routes);
     }
 };
 
