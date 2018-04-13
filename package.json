@@ -4,7 +4,9 @@
   "description": "A educationWeb Demo",
   "main": "server.js",
   "dependencies": {
-    "express": "~4.8.8"
+    "express": "~4.8.8",
+    "mysql": "^2.15.0",
+    "sequelize": "^4.37.6"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
